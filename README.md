@@ -7,6 +7,7 @@ This project performs **multi-class brain tumor classification** using a **VGG16
 ## Dataset
 
 The dataset used is organized as:
+
 /Training/
 ├── glioma/
 ├── meningioma/
